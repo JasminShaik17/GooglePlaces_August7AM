@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GooglePlaces_August7AM</string>
+    <string-array name="types">
+        <item>select</item>
+        <item>school</item>
+        <item>atm</item>
+        <item>restaurant</item>
+        <item>police</item>
+        <item>hospital</item>
+    </string-array>
+</resources>
